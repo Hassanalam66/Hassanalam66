@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Hassan Alam
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me through my socials already link on my profile
+- 😄 Pronouns: He/Him 
